@@ -18,6 +18,10 @@
   color: blue;
 }
 
+h2 {
+  color: purple;
+}
+
 
 main {
   background-color: grey;
@@ -28,7 +32,7 @@ footer {
   background-color: silver;
 }
 
-#:
+#table {
   border-collapse:
   width: 100%;
   margin-left: 50px;
@@ -49,6 +53,6 @@ footer {
 }
 
 #table th {
-  background-color: blue;
+  background-color: purple;
   color: white;
 }
