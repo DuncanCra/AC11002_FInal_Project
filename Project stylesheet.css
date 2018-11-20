@@ -1,13 +1,8 @@
 header {
-  width: 1685px;
-  height: 785px;
-  padding-left: 512;
-  padding-right: 512;
-  padding-top: 384;
-  padding-bottom: 384;
+  width: 100%;
+  height: 66%;
   background-image: url("code header 2.jpg");
-  background-position: left top;
-  background-repeat: round;
+  background-size:cover;
 }
 
 .card {
@@ -20,12 +15,6 @@ header {
   color: blue;
 }
 
-.title {
-  color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    padding-left: 625px;
-    padding-top: 325px;
-}
 
 main {
   background-color: grey;
