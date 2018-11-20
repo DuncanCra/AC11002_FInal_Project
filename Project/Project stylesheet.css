@@ -1,0 +1,62 @@
+header {
+  width: 1685px;
+  height: 785px;
+  padding-left: 512;
+  padding-right: 512;
+  padding-top: 384;
+  padding-bottom: 384;
+  background-image: url("code header 2.jpg");
+  background-position: left top;
+  background-repeat: round;
+}
+
+.card {
+  margin-left: 50px;
+  margin-top: 50px;
+  background-color: silver;
+}
+
+.card-title {
+  color: blue;
+}
+
+.title {
+  color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    padding-left: 625px;
+    padding-top: 325px;
+}
+
+main {
+  background-color: grey;
+  padding: 25px;
+  }
+
+footer {
+  background-color: silver;
+}
+
+#table {
+  border-collapse:
+  width: 100%;
+  margin-left: 50px;
+}
+#table th, #table td {
+  border: 1px solid black;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px:
+}
+
+#table tr:nth-child(even){
+  background-color: white;
+}
+#table tr {
+  background-color: silver;
+}
+
+#table th {
+  background-color: blue;
+  color: white;
+}
