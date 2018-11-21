@@ -1,3 +1,4 @@
+/*  sets the header as an image and sets its size to be responsive*/
 .responsive-scale {
   width: 100%;
   padding-bottom: 22.5%;
@@ -7,32 +8,39 @@
   text-align: center;
 }
 
+/*  sets the text on the header to be white with a black border*/
 h1 {
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
+/*  sets the colour of any cards*/
 .card {
   margin-top: 50px;
   background-color: silver;
 }
 
+/*  sets the colour of the tile text of cards to be blue*/
 .card-title {
   color: blue;
 }
 
+/*  sets the colour of title text to be purple*/
 h2 {
   color: purple;
 }
 
+/*  sets the main background clour to grey*/
 main {
   background-color: grey;
   padding: 25px;
   }
 
+/*  sets the footer colour to silver*/
 footer {
   background-color: silver;
 }
+
 
 #table {
   border-collapse:
@@ -45,13 +53,17 @@ footer {
   padding-bottom: 7.5px:
 }
 
+/*  sets the colour of every second row in the table to white*/
 #table tr:nth-child(even){
   background-color: white;
 }
+
+/*  sets the colour of every other table row to be silver*/
 #table tr {
   background-color: silver;
 }
 
+/*  sets the header line of the table to be pruple with white text*/
 #table th {
   background-color: purple;
   color: white;
